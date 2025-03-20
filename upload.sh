@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Use aria2 to download torrent on linux
 # The current directory containing the files to upload
 UPLOAD_DIR="./SucKhoe/"
 # Iterate through each file in order, excluding upload.sh
